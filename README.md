@@ -12,7 +12,7 @@
 
 💻 Exploring code, automation, and tech | Building efficient workflows &amp; tinkering with new ideas | Always learning.
 
-🔭 &nbsp;I'm currently working on **A Laptop Controller Through Phone**  
+🔭 &nbsp;I'm currently working on **Private 2 person Chat System**  
 🌱 &nbsp;I'm currently learning **Android &amp; Web Development**  
 💬 &nbsp;Ask me about **Python**  
 😄 &nbsp;Pronouns: **He/Him**  
